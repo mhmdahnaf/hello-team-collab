@@ -1,1 +1,1 @@
-document.getElementById("greet").innerText = "Hello from Team!";
+document.getElementById("greet").innerText = "Hello from Our Team!";
